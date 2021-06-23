@@ -5,7 +5,7 @@
 
 ## Description
 
-This app is my first attempt at a frontend React shopping cart app using typescript. This app displays products that can be viewed and then added/removed to a cart that displays as an aside. Click [here](https://github.com/TommyWillen/React-Shopping-Cart) to view the deployed app.
+This app is my first attempt at a frontend React shopping cart app using typescript. This app displays products that can be viewed and then added/removed to a cart that displays as an aside. Click [here](https://react-shopping-cart-seven-eta.vercel.app/) to view the deployed app.
 
 ## Table of Contents
 
