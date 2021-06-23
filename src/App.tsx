@@ -5,7 +5,7 @@ import Item from "./Components/Item/Item";
 import Cart from "./Components/Cart/Cart";
 import Drawer from "@material-ui/core/Drawer";
 import LinearProgress from "@material-ui/core/LinearProgress";
-import Grid from "@material-ui/core/grid";
+import Grid from "@material-ui/core/Grid";
 import AddShoppingCartIcon from "@material-ui/icons/AddShoppingCart";
 import Badge from "@material-ui/core/Badge";
 // styles
